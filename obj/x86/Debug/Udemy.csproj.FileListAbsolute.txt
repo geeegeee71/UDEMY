@@ -1,0 +1,2 @@
+C:\Users\richa\source\repos\geeegeee71\UDEMY\obj\x86\Debug\Udemy.csproj.AssemblyReference.cache
+C:\Users\richa\source\repos\geeegeee71\UDEMY\obj\x86\Debug\Udemy.csproj.CoreCompileInputs.cache
